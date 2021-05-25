@@ -23,3 +23,11 @@ and Tx.UserId=Usr.UserID
 and Tx.EntityId=Ent.EntityId
 and usr.Phone1=''
 order by Tx.TxDate desc;
+
+select Acc.AccType, Acc.AccRef, Ent.EntityName, Ev.EventDate, Ev.EventDesc from
+UserData usr, Entity Ent, Account Acc, Events Ev where
+Ev.AccId=Acc.AccId
+and Ev.UserId=Usr.UserID
+and Ev.EntityId=Ent.EntityId
+and usr.Phone1=''
+order by Ev.EventDate desc;
