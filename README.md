@@ -24,7 +24,7 @@
 
 <h2> 3. Process Flow </h2> <br>
     
-![Image of process flow](https://github.com/shk91/IN48/blob/main/Flow.PNG "Process Flow")
+![Image of process flow](https://github.com/shk91/IN48/blob/main/Process_flow.jpg "Process Flow")
 ![ER diagram](https://github.com/shk91/IN48/blob/main/IN48_ERD.jpg "Database schema")  
 
  <h2> 4. Novel Solution </h2> <br>
