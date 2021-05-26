@@ -44,7 +44,7 @@ Process Flow
 
 
  <h2> 8. Future Enhancement </h2> <br>
- &nbsp&nbsp&nbsp 1. Use of Natural Language Processing for better analysis of SMS/Email notifications.
- &nbsp&nbsp&nbsp 2. Alongwith organizing financial data, we can integrate a planner where we pre set our expenditures for upcoming month and compare it with current spends/balance.
- &nbsp&nbsp&nbsp 3. Expand scope to organizing not financial data too. We have plethora of notifications on our mobiles and desktops via chats, push notifications alongwith SMS/Emails. 
- &nbsp&nbsp&nbsp 4. We can use concept of scraping and organizing data for all alerts and use that data to plan and schedule tasks, create reminders and have a personal assistant.
+ &nbsp&nbsp&nbsp *1. Use of Natural Language Processing for better analysis of SMS/Email notifications.
+ &nbsp&nbsp&nbsp *2. Alongwith organizing financial data, we can integrate a planner where we pre set our expenditures for upcoming month and compare it with current spends/balance.
+ &nbsp&nbsp&nbsp *3. Expand scope to organizing not financial data too. We have plethora of notifications on our mobiles and desktops via chats, push notifications alongwith SMS/Emails. 
+ &nbsp&nbsp&nbsp *4. We can use concept of scraping and organizing data for all alerts and use that data to plan and schedule tasks, create reminders and have a personal assistant.
