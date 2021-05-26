@@ -20,7 +20,9 @@
  
 <h2> 2. Getting Started </h2> <br>
 &nbsp&nbsp&nbsp o Prerequisites <br>
-&nbsp&nbsp&nbsp 1. Microsoft Azure
+&nbsp&nbsp&nbsp 1. JavaScript <br>
+&nbsp&nbsp&nbsp 2. Node.js <br>
+&nbsp&nbsp&nbsp 3. MySQL <br>
 
 <h2> 3. Process Flow </h2> <br>
     
@@ -28,6 +30,7 @@
 ![ER diagram](https://github.com/shk91/IN48/blob/main/IN48_ERD.jpg "Database schema")  
 
  <h2> 4. Novel Solution </h2> <br>
+ &nbsp&nbsp&nbsp While we're using data collected from notifications, FIS can leverage data from its payment systems to have a single view of a person's finances.
  
  <h2> 5. Wow Factor </h2> <br>
  &nbsp&nbsp&nbsp  1. It will consolidate transaction data from all your bank accounts and credit cards, create one statement for all transactions which helps you to better plan your finances.<br>
